@@ -1,0 +1,53 @@
+🚀 cPanel'e Business Management System Kurulumu
+
+📦 HAZIR DOSYALAR:
+✅ business-management-cpanel.zip - cPanel'e yüklenecek dosyalar
+✅ cpanel-files/ klasörü - ZIP içeriği
+
+🔧 KURULUM ADIMLARI:
+
+1️⃣ cPanel'e Giriş Yapın
+   - Hosting sağlayıcınızın cPanel'ine giriş yapın
+
+2️⃣ File Manager'ı Açın
+   - cPanel ana sayfasında "File Manager" butonuna tıklayın
+   - "public_html" klasörüne gidin
+
+3️⃣ ZIP Dosyasını Yükleyin
+   - "Upload" butonuna tıklayın
+   - "business-management-cpanel.zip" dosyasını seçin
+   - Yükleme tamamlanana kadar bekleyin
+
+4️⃣ ZIP'i Extract Edin
+   - Yüklenen ZIP dosyasına sağ tıklayın
+   - "Extract" seçeneğini seçin
+   - Dosyaların public_html'e çıkarıldığından emin olun
+
+5️⃣ ZIP Dosyasını Silin (İsteğe Bağlı)
+   - Artık ihtiyaç olmadığı için ZIP dosyasını silebilirsiniz
+
+6️⃣ İzinleri Kontrol Edin
+   - Tüm dosyalar için 644 izni
+   - Klasörler için 755 izni
+   - Genellikle otomatik olarak doğru ayarlanır
+
+7️⃣ Sitenizi Test Edin
+   - Tarayıcıda domain'inizi açın
+   - Ana sayfa yüklenmeli
+   - Butonların çalıştığını kontrol edin
+
+🌐 SONUÇ:
+✅ Siteniz artık yourdomain.com adresinde çalışıyor!
+✅ Modern, responsive tasarım
+✅ Tüm özellikler çalışır durumda
+
+🔧 SORUN GİDERME:
+❌ Sayfa açılmıyor → index.html dosyasının public_html'de olduğunu kontrol edin
+❌ CSS yüklenmiyor → Dosya izinlerini kontrol edin
+❌ Resimler görünmüyor → _next klasörünün doğru yüklendiğini kontrol edin
+
+📞 DESTEK:
+- Hosting sağlayıcınızın teknik desteğine başvurun
+- cPanel dokümantasyonunu inceleyin
+
+🎉 TEBRİKLER! Business Management System'iniz hazır!
